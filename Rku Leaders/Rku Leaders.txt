@@ -1,0 +1,31 @@
+(1) A description of our project
+
+	We have made the website to solve the problem of education and also such as an online education where students are wasting most of the time searching the best resources.
+
+	So we have mentioned the important sections in our website where any students whether they are primary students, higher secondary students, UG/PG Students as well as teachers also can get important and required documents from here and do the learning as well as teaching,
+ 
+	We have collected the best resources such as Vande Gujarat, Udemy, Edureka, W3schools, Byju, Khan academy. From where students can access the materials provided by these many trusted portals. Also, they can enroll in the course and learn from the different instructors.
+
+(2) The contents of your project directory.
+
+	As We mentioned in the above that all contents which we have used that will help to the students who are facing less resource and not getting best resource support for online learning. 
+
+	So we have described over here that what are courses for them we are providing the collected resources as well as for whom can get easy this website means which students can get the benefits from this website
+
+	So we are giving all the students such as Primary, Higher-Secondary, UG/PG, JEE/NEET Students whether they belong from GSEB, CBSE, ICSE for them also.
+
+	We have divided and also used the combination of all the student's useful resources in one place. So English, Hindi, Gujarati medium students can get the benefits.
+	
+	Students only need to choose by clicking on a particular section of the website and they will find out as they want related to the education.
+	
+Ways to host your project on the localhost.
+
+We have forked the repository and also we have clone it into the local machine and the location that we have choose for storing that file was C:\xampp\htdocs and in this we have created another folder named as Rku Leaders (Our Team Name) and made our entire website in this Rku Leaders folder and then we have run the website on a browser with the following URL:
+	
+URL for localhost:    http://localhost/Rku%20Leaders/Online%20Learning/
+
+ A link to the video demonstration of our working model is following...
+
+ https://drive.google.com/file/d/1dCH_jv9KV864L4lpevCzkwi9xAQ-Tszt/view?usp=sharing
+
+
