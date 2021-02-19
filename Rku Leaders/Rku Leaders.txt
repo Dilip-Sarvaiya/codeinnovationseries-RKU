@@ -8,6 +8,8 @@
 
 (2) The contents of your project directory.
 
+	Contents are HTML,CSS,Javascript,jquery,Bootstrap.
+	
 	As We mentioned in the above that all contents which we have used that will help to the students who are facing less resource and not getting best resource support for online learning. 
 
 	So we have described over here that what are courses for them we are providing the collected resources as well as for whom can get easy this website means which students can get the benefits from this website
